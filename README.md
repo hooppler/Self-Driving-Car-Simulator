@@ -18,16 +18,16 @@ From windows console:
 C:\path_to_main> python game_main.py
 
 Self-Driving Car Simulator Intro Movie Screenshot
-![Screenshot](file://media/SelfDrivingCarScreenshot0.png)
-![Screenshot](media/PongGameScreenshot.png)
+[comment]: ![Screenshot](file://media/SelfDrivingCarScreenshot0.png)
+![Screenshot](media/SelfDrivingCarScreenshot0.png)
 
 Self-Driving Car Simulator Zoom Screensot
-![Screenshot](file://media/SelfDrivingCarScreenshot1.png)
-![Screenshot](media/PongGameLayout.png)
+[comment]: ![Screenshot](file://media/SelfDrivingCarScreenshot1.png)
+![Screenshot](media/SelfDrivingCarScreenshot1.png)
 
 Self-Driving Car Simulator Screenshot
-![Screenshot](file://media/SelfDrivingCarScreenshot2.png)
-![Screenshot](media/PongGameLayout.png)
+[comment]: ![Screenshot](file://media/SelfDrivingCarScreenshot2.png)
+![Screenshot](media/SelfDrivingCarScreenshot2.png)
 
 ## Requirements
 
