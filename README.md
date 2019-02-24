@@ -7,7 +7,7 @@ and machine learning (ML) models.
 
 Designed using pyGame from the scratch. Work is still in progress.
 
-Visual design is doen using Blender
+Visual design is doen using Blender.
 Car model is borrowed from open space: https://www.blendswap.com/blends/view/69982 License CC Zero
 
 
