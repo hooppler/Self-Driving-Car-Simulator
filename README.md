@@ -2,12 +2,11 @@
 ### Simulator for self-driving experimentation
 
 ## Introduction
-Self-Driving Car Simulator which is intended for use in experimenting with artificial intelligence (AI)
-and machine learning (ML) models.
+Self-Driving Car Simulator for experiments with artificial intelligence (AI) and machine learning (ML) models.
 
 Designed using pyGame from the scratch. Work is still in progress.
 
-Visual design is doen using Blender.
+Visual design is done using Blender.
 Car model is borrowed from open space: https://www.blendswap.com/blends/view/69982 License CC Zero
 
 
